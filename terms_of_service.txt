@@ -1,0 +1,38 @@
+Terms of Service for YT-Downloader
+Last Updated: 4/20/2025
+
+By accessing or using YT-Downloader, you agree to be bound by these Terms of Service. Please read them carefully.
+
+1. Account Usage
+
+Your user account is personal to you. You are entirely responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account. 
+Account sharing is strictly prohibited. You may not share your account login details with any other individual. Any detected instance of account sharing may result in the immediate suspension or termination of your account without notice or refund.
+2. Prohibited Conduct
+
+You agree not to engage in any of the following prohibited activities:
+
+Distribution: You may not distribute, sublicense, rent, lease, sell, offer for sale, or otherwise transfer any part of the Service to any third party, whether for commercial or non-commercial purposes. This includes, but is not limited to, sharing the application itself, its license keys (if applicable), or any derived works.
+Reverse engineering, decompiling, disassembling, or attempting to derive the source code of the Service will lead to immediate termination of your account.
+Modifying, adapting, or creating derivative works based upon the Service.
+Using the Service in any way that violates these Terms or any applicable laws. Attempting to gain unauthorized access to the Service, its servers, or any related systems or networks.
+Using the service in a manner that could disrupt, disable, overburden, or impair the service or interfere with any other party's use and enjoyment of the service.
+3. Consequences of Violation
+
+Failure to comply with these Terms, including but not limited to the prohibitions against account sharing and distribution, may result in the following actions, at our sole discretion and without notice:
+
+Account Suspension: Your access to the service may be temporarily suspended. During a suspension, you cannot use any of the Service's features.
+Account Termination: Your account and access to the Service may be permanently terminated. In the event of termination due to a violation of these Terms, you will not be entitled to any refunds.
+
+
+4. Modifications to the Terms
+
+We reserve the right to modify these Terms at any time without prior notice. Any changes will be effective immediately upon posting the revised Terms on our website or within the service. Your continued use of the Service after the posting of revised Terms constitutes your acceptance of the changes.
+5. Entire Agreement
+
+These Terms constitute the entire agreement between you and YT-Downloader regarding the Service and supersede all prior or contemporaneous communications and proposals, whether oral or written.
+
+
+6. Contact Us
+If you have any questions about these Terms, please contact us at 1203spatel@gmail.com.   
+
+
