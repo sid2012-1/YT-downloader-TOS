@@ -1,2 +1,2 @@
 # YT-downloader-TOS
-Terms of service of YT-downloader
+Go to [youtube link] to learn how to install the YT-Downloader.
